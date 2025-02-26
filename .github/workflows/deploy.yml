@@ -42,5 +42,5 @@ jobs:
           git branch -M gh-pages
           git add --all
           git commit -m "Updated site" || echo "No changes to commit"
-          git remote add origin https://github.com/shizratariq/theplaybook.git
+          git remote add origin https://github.com/shizratariq/chanin.tech.git
           git push -f origin gh-pages
