@@ -1,5 +1,5 @@
 languageCode: en-us
-baseURL: "//chanin.tech/"
+baseURL: "https://shizratariq.github.io/chanin.tech/"
 title: Chanin Nantasenamat
 paginate: 5
 theme: PaperMod
